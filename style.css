@@ -1,0 +1,15 @@
+
+.main{
+    height: 400px;
+    background-image: linear-gradient(to bottom left,rgba(69,70,82,0.5),rgb(8, 5, 5));
+text-align: center;
+}
+figure{
+    background-color: red;
+    height: 200px;
+   text-align: center;
+  width: 900px;
+  margin: 0% auto;
+
+ 
+} 
